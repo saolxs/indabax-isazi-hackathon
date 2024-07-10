@@ -1,12 +1,9 @@
 pandas
-# numpy
 matplotlib
 seaborn
 scikit-learn
-neuralforecast
 scipy
 scikit-optimize
 nbstripout
-# mxnet==1.6
 gluonts[mxnet, torch]
 nbconvert
